@@ -1,0 +1,2 @@
+ALTER TABLE manuscripts
+ADD plagiarism_report VARCHAR(255);

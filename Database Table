@@ -1,0 +1,10 @@
+CREATE TABLE manuscripts (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    author_name VARCHAR(255),
+    email VARCHAR(255),
+    article_title VARCHAR(500),
+    article_type VARCHAR(100),
+    abstract TEXT,
+    manuscript_file VARCHAR(500),
+    submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

@@ -1,0 +1,26 @@
+Frontend:
+HTML5
+CSS3
+Bootstrap 5
+JavaScript
+
+Backend:
+PHP 8.3
+Laravel 12
+
+Database:
+MySQL 8
+
+Storage:
+AWS S3 / Local Storage
+
+Mail:
+SMTP
+
+PDF:
+TCPDF
+
+Security:
+JWT
+CSRF
+2FA

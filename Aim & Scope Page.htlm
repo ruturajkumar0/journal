@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aim & Scope | IJPR</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+margin:0;
+background:#f4f7fb;
+}
+
+.header{
+background:#0b4f8a;
+color:white;
+padding:25px;
+text-align:center;
+}
+
+.container{
+width:85%;
+margin:40px auto;
+background:white;
+padding:40px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+h2{
+color:#0b4f8a;
+margin-top:25px;
+}
+
+ul{
+line-height:2;
+}
+
+.footer{
+background:#083b67;
+color:white;
+padding:15px;
+text-align:center;
+margin-top:30px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+<h1>Aim & Scope</h1>
+</div>
+
+<div class="container">
+
+<h2>Aim</h2>
+
+<p>
+The International Journal of Pharmacology Research (IJPR) aims to promote
+high-quality research and scientific advancement in pharmacology,
+pharmaceutical sciences, biotechnology, and healthcare research.
+</p>
+
+<h2>Scope</h2>
+
+<ul>
+<li>Experimental Pharmacology</li>
+<li>Clinical Pharmacology</li>
+<li>Pharmacovigilance</li>
+<li>Drug Discovery & Development</li>
+<li>Molecular Pharmacology</li>
+<li>Toxicology</li>
+<li>Clinical Pharmacy</li>
+<li>Pharmaceutical Chemistry</li>
+<li>Pharmaceutics</li>
+<li>Pharmacognosy</li>
+<li>Nanomedicine</li>
+<li>Biotechnology</li>
+<li>Artificial Intelligence in Healthcare</li>
+<li>Personalized Medicine</li>
+<li>Public Health Research</li>
+<li>Regulatory Affairs</li>
+</ul>
+
+</div>
+
+<div class="footer">
+© 2026 IJPR | Published by Lakshmi Biosciences
+</div>
+
+</body>
+</html>
